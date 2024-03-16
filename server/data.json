@@ -1,0 +1,191 @@
+{
+	"Users": [
+		{
+			"id": 1,
+			"Name": "Animakid",
+			"Avatar": "@/assets/image/Avatar1.png",
+			"TotalSales": 111,
+			"Collection": [
+				{
+					"id": 1,
+					"Name": "Space Walking",
+					"NFTPicture": [
+						"@/assets/image/Image Placeholder.png",
+						"@/assets/image/Image Placeholder.png",
+						"@/assets/image/Image Placeholder.png"
+					]
+				}
+			]
+		},
+		{
+			"id": 2,
+			"Name": "MrFox",
+			"Avatar": "@/assets/image/Avatar.png",
+			"TotalSales": 111,
+			"Collection": [
+				{
+					"id": 1,
+					"Name": "DSGN Animals",
+					"NFTPicture": [
+						"@/assets/image/NFT1.png",
+						"@/assets/image/NFT2.png",
+						"@/assets/image/NFT3.png"
+					]
+				}
+			]
+		},
+		{
+			"id": 3,
+			"Name": "Shroomie",
+			"Avatar": "@/assets/image/Avatar2.png",
+			"TotalSales": 111,
+			"Collection": [
+				{
+					"id": 1,
+					"Name": "Magic Mushrooms",
+					"NFTPicture": [
+						"@/assets/image/NFT4.png",
+						"@/assets/image/NFT5.png",
+						"@/assets/image/NFT6.png"
+					]
+				}
+			]
+		},
+		{
+			"id": 4,
+			"Name": "BeKind2Robots",
+			"Avatar": "@/assets/image/Avatar3.png",
+			"TotalSales": 111,
+			"Collection": [
+				{
+					"id": 1,
+					"Name": "Disco Machines",
+					"NFTPicture": [
+						"@/assets/image/NFT7.png",
+						"@/assets/image/NFT8.png",
+						"@/assets/image/NFT9.png"
+					]
+				}
+			]
+		},
+		{
+			"id": 5,
+			"Name": "BeKind2Robots",
+			"Avatar": "@/assets/image/Avatar4.png",
+			"TotalSales": 111,
+			"Collection": [
+				{
+					"id": 1,
+					"Name": "Disco Machines",
+					"NFTPicture": [
+						"@/assets/image/NFT7.png",
+						"@/assets/image/NFT8.png",
+						"@/assets/image/NFT9.png"
+					]
+				}
+			]
+		},
+		{
+			"id": 6,
+			"Name": "BeKind2Robots",
+			"Avatar": "@/assets/image/Avatar5.png",
+			"TotalSales": 111,
+			"Collection": [
+				{
+					"id": 1,
+					"Name": "Disco Machines",
+					"NFTPicture": [
+						"@/assets/image/NFT7.png",
+						"@/assets/image/NFT8.png",
+						"@/assets/image/NFT9.png"
+					]
+				}
+			]
+		},
+		{
+			"id": 7,
+			"Name": "BeKind2Robots",
+			"Avatar": "@/assets/image/Avatar6.png",
+			"TotalSales": 111,
+			"Collection": [
+				{
+					"id": 1,
+					"Name": "Disco Machines",
+					"NFTPicture": [
+						"@/assets/image/NFT7.png",
+						"@/assets/image/NFT8.png",
+						"@/assets/image/NFT9.png"
+					]
+				}
+			]
+		},
+		{
+			"id": 8,
+			"Name": "BeKind2Robots",
+			"Avatar": "@/assets/image/Avatar7.png",
+			"TotalSales": 111,
+			"Collection": [
+				{
+					"id": 1,
+					"Name": "Disco Machines",
+					"NFTPicture": [
+						"@/assets/image/NFT7.png",
+						"@/assets/image/NFT8.png",
+						"@/assets/image/NFT9.png"
+					]
+				}
+			]
+		},
+		{
+			"id": 9,
+			"Name": "BeKind2Robots",
+			"Avatar": "@/assets/image/Avatar8.png",
+			"TotalSales": 111,
+			"Collection": [
+				{
+					"id": 1,
+					"Name": "Disco Machines",
+					"NFTPicture": [
+						"@/assets/image/NFT7.png",
+						"@/assets/image/NFT8.png",
+						"@/assets/image/NFT12.png"
+					]
+				}
+			]
+		},
+		{
+			"id": 10,
+			"Name": "BeKind2Robots",
+			"Avatar": "@/assets/image/Avatar9.png",
+			"TotalSales": 111,
+			"Collection": [
+				{
+					"id": 1,
+					"Name": "Disco Machines",
+					"NFTPicture": [
+						"@/assets/image/NFT7.png",
+						"@/assets/image/NFT8.png",
+						"@/assets/image/NFT10.png"
+					]
+				}
+			]
+		},
+		{
+			"id": 11,
+			"Name": "BeKind2Robots",
+			"Avatar": "@/assets/image/Avatar10.png",
+			"TotalSales": 111,
+			"Collection": [
+				{
+					"id": 1,
+					"Name": "Disco Machines",
+					"NFTPicture": [
+						"@/assets/image/NFT7.png",
+						"@/assets/image/NFT8.png",
+						"@/assets/image/NFT11.png"
+					]
+				}
+			]
+		}
+	]
+}
